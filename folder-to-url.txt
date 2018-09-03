@@ -1,0 +1,3 @@
+Redirect an old folder to an URL
+
+RewriteRule ^old-name(.+)$ http://www.website.fr/new-url/ [R=301,L]
